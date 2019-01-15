@@ -6,7 +6,7 @@
 
 
 ### 2. 使用说明     
-安装基于python 3.6 开发，linux环境。需要按 MySQLdb 库。   
+安装基于python 3.6 开发，linux环境。需要安装 MySQLdb 库。   
 nohup python mysqldump_multi 40 /export/backup/dapbackup_not_del/10_127_160_166/ >>/export/scripts/edison/nohup.out &
 
 ### 3. 优势  
